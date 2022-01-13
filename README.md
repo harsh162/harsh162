@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @harsh162
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning 'C'
+- 🌱 I’m currently learning 'PYTHON'
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me raoharsh138@gmail.com
 
